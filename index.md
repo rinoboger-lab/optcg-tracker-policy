@@ -1,6 +1,6 @@
 # Privacy Policy — OPTCG Tracker
 
-**Last updated: 12 August 2026**
+**Last updated: 18 September 2026**
 
 OPTCG Tracker ("the app") is a hobby app for logging One Piece Card Game matches
 between friends. This policy explains what the app stores, who can see it, and
@@ -17,6 +17,12 @@ LLC). The app never sees or stores your password — Firebase stores it in hashe
 form. Your email address is used to sign you in, to verify your account, and to
 send password-reset messages. Your email address is *not* stored in the app's
 database and is not visible to other users.
+
+**Signing in with Google.** You may instead sign in with a Google account. In
+that case Firebase Authentication receives your Google account's email address,
+display name and profile picture link from Google, and the app uses the display
+name as your initial profile name, which you can change. No password is created
+or stored by the app for a Google sign-in.
 
 **Profile information.** A display name, an automatically generated friend code,
 and an optional avatar. You choose the display name; it does not have to be your
