@@ -1,6 +1,6 @@
 # Privacy Policy — OPTCG Tracker
 
-**Last updated: 18 September 2026**
+**Last updated: 22 September 2026**
 
 OPTCG Tracker ("the app") is a hobby app for logging One Piece Card Game matches
 between friends. This policy explains what the app stores, who can see it, and
@@ -38,8 +38,17 @@ choose to attach them — photographs you take of tournament ranking screens and
 of your own decklists. Images are only ever added by you, from your camera or
 photo library, one at a time.
 
+**Simulator sittings.** If you log games on a simulator you may record the
+in-game bounty you started and finished a sitting on. This is optional and you
+can skip it. The log itself — every sitting, both ends, which games were in it
+— is visible only to you. The **most recent bounty** is published to your
+profile and is visible to any signed-in user, so friends can see where you
+stand.
+
 **Aggregate statistics.** Your overall win rate and game counts are computed from
 your confirmed matches and stored on your profile so friends can see your record.
+This includes, for each of your decks, how it did against each opposing deck and
+how often you went first — the numbers behind the leader matrix.
 
 The app contains **no advertising, no analytics, and no third-party tracking**.
 It does not collect your location, contacts, device identifiers, or usage
@@ -52,8 +61,13 @@ telemetry, and it does not sell or share data with advertisers.
 - **Your profile, aggregate stats, and deck photos:** visible to any signed-in
   user of the app. This is what makes it possible to find friends by name or
   friend code. Do not put anything private in a display name or a deck photo.
-- **Your matches:** visible only to the two players in that match.
+- **Your matches:** visible only to the two players in that match — and, for a
+  round played at an event someone else is running in the app, to that event's
+  organiser, who recorded the result.
 - **Friend requests:** visible only to the two users involved.
+- **Your simulator sitting log and private match notes:** visible only to you.
+  Your most recent bounty is the exception: it sits on your profile, which any
+  signed-in user can read.
 
 These boundaries are enforced by Firestore security rules on Google's servers,
 not just by the app.
@@ -72,10 +86,14 @@ optcgapi.com. These requests contain no personal data.
 
 Your data is kept until you ask for it to be deleted.
 
-To delete your account and all associated data, email **gango.friesss@gmail.com**
-from the address the account was registered with. Your profile, matches,
-tournaments, and deck photos will be deleted within 30 days. Matches you played
-against another user are shared records; your side of them will be removed.
+You can delete your account from inside the app, under **Settings → Delete
+account**. It asks you to sign in again to prove it is you, then removes your
+profile, matches, tournaments, deck photos, private notes, simulator sittings
+and published statistics, and finally the account itself. Matches you played
+against another user are shared records; your side of them is removed.
+
+If you would rather not do it yourself, email **gango.friesss@gmail.com** from
+the address the account was registered with and it will be done within 30 days.
 
 ## Children
 
