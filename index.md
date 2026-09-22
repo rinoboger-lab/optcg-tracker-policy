@@ -1,6 +1,6 @@
 # Privacy Policy — OPTCG Tracker
 
-**Last updated: 22 September 2026**
+**Last updated: 23 September 2026**
 
 OPTCG Tracker ("the app") is a hobby app for logging One Piece Card Game matches
 between friends. This policy explains what the app stores, who can see it, and
@@ -31,7 +31,8 @@ real name.
 **Match data you enter.** For each match: the Leader cards played, who went
 first, the result, the date, the match type, and any notes you add. Matches
 against a registered opponent are shared with that opponent and require their
-confirmation.
+confirmation. **A match record is readable by any signed-in user** — see "Who
+can see your data" below. Your notes on it are not.
 
 **Tournament and deck data you enter.** Tournament names, placings, and — if you
 choose to attach them — photographs you take of tournament ranking screens and
@@ -61,9 +62,10 @@ telemetry, and it does not sell or share data with advertisers.
 - **Your profile, aggregate stats, and deck photos:** visible to any signed-in
   user of the app. This is what makes it possible to find friends by name or
   friend code. Do not put anything private in a display name or a deck photo.
-- **Your matches:** visible only to the two players in that match — and, for a
-  round played at an event someone else is running in the app, to that event's
-  organiser, who recorded the result.
+- **Your matches:** visible to any signed-in user of the app. A match record is
+  the decks, who went first, the result, the date and the kind of game — the
+  same sort of thing a results sheet at an event shows. **Only you and your
+  opponent can create or change one**, whoever can read it.
 - **Friend requests:** visible only to the two users involved.
 - **Your simulator sitting log and private match notes:** visible only to you.
   Your most recent bounty is the exception: it sits on your profile, which any
