@@ -33,6 +33,12 @@ to you, on your profile, and you can disconnect it again there.
 and an optional avatar. You choose the display name; it does not have to be your
 real name.
 
+**Friends.** Who you are friends with, and the friend requests you send and
+receive. A friendship needs both people to accept it. The app uses it to let
+you pick a friend as an opponent and to show how often and how recently you
+have played each friend. You do not need any friends to use the app, and you
+can remove a friend at any time. The app never reads your phone's contacts.
+
 **Match data you enter.** For each match: the Leader cards played, who went
 first, the result, the date, the match type, and any notes you add. Matches
 against a registered opponent are shared with that opponent and require their
