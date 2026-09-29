@@ -1,6 +1,6 @@
 # Privacy Policy — OPTCG Tracker
 
-**Last updated: 23 September 2026**
+**Last updated: 29 September 2026**
 
 OPTCG Tracker ("the app") is a hobby app for logging One Piece Card Game matches
 between friends. This policy explains what the app stores, who can see it, and
@@ -23,6 +23,11 @@ that case Firebase Authentication receives your Google account's email address,
 display name and profile picture link from Google, and the app uses the display
 name as your initial profile name, which you can change. No password is created
 or stored by the app for a Google sign-in.
+
+If you signed up with email and password, you can also **connect** a Google
+account later, so either way signs you in. Firebase Authentication then holds
+that Google account's email address alongside your own; the app shows it only
+to you, on your profile, and you can disconnect it again there.
 
 **Profile information.** A display name, an automatically generated friend code,
 and an optional avatar. You choose the display name; it does not have to be your
@@ -88,8 +93,9 @@ optcgapi.com. These requests contain no personal data.
 
 Your data is kept until you ask for it to be deleted.
 
-You can delete your account from inside the app, under **Settings → Delete
-account**. It asks you to sign in again to prove it is you, then removes your
+You can delete your account from inside the app: open your **Profile**, scroll
+to **Settings**, and tap **Delete my account**. It asks you to type "delete"
+and to sign in again to prove it is you, then removes your
 profile, matches, tournaments, deck photos, private notes, simulator sittings
 and published statistics, and finally the account itself. Matches you played
 against another user are shared records; your side of them is removed.
