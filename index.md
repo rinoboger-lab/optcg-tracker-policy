@@ -39,6 +39,12 @@ you pick a friend as an opponent and to show how often and how recently you
 have played each friend. You do not need any friends to use the app, and you
 can remove a friend at any time. The app never reads your phone's contacts.
 
+**Blocking.** You can block another player. A blocked player can no longer
+send you friend requests, log matches against you, or join events you host,
+and they are not told. Your list of blocked players is visible only to you,
+and you can unblock anyone at any time. Blocking does not hide your profile
+or matches from them; see "Who can see your data".
+
 **Match data you enter.** For each match: the Leader cards played, who went
 first, the result, the date, the match type, and any notes you add. Matches
 against a registered opponent are shared with that opponent and require their
@@ -57,10 +63,11 @@ can skip it. The log itself — every sitting, both ends, which games were in it
 profile and is visible to any signed-in user, so friends can see where you
 stand.
 
-**Aggregate statistics.** Your overall win rate and game counts are computed from
-your confirmed matches and stored on your profile so friends can see your record.
-This includes, for each of your decks, how it did against each opposing deck and
-how often you went first — the numbers behind the leader matrix.
+**Aggregate statistics.** A summary of your confirmed matches is published for
+the leader matrix: for each of your decks, how it did against each opposing
+deck and how often you went first, broken down by kind of game, card set and
+the day the games were played, plus whether each of your events was a weekly
+or a tournament. It holds totals, not individual games.
 
 The app contains **no advertising, no analytics, and no third-party tracking**.
 It does not collect your location, contacts, device identifiers, or usage
