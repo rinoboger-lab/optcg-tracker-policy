@@ -1,6 +1,6 @@
 # Privacy Policy — OPTCG Tracker
 
-**Last updated: 29 September 2026**
+**Last updated: 1 October 2026**
 
 OPTCG Tracker ("the app") is a hobby app for logging One Piece Card Game matches
 between friends. This policy explains what the app stores, who can see it, and
