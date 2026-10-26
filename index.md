@@ -1,10 +1,12 @@
 # Privacy Policy — OPTCG Tracker
 
-**Last updated: 1 October 2026**
+**Last updated: 26 October 2026**
 
 OPTCG Tracker ("the app") is a hobby app for logging One Piece Card Game matches
-between friends. This policy explains what the app stores, who can see it, and
-how to get it deleted.
+between friends. It is an Android app and a website
+(https://optcg-tracker-9fbb8.web.app) with the same accounts and data, and this
+policy covers both: what the app stores, who can see it, and how to get it
+deleted.
 
 The app is operated by an individual developer, not a company. Contact:
 **gango.friesss@gmail.com**
@@ -63,6 +65,12 @@ can skip it. The log itself — every sitting, both ends, which games were in it
 profile and is visible to any signed-in user, so friends can see where you
 stand.
 
+**Requesting the Android app.** On the website you can ask to be added to the
+Android app's test version. You enter the email address of the Google account
+you use on Google Play. It is sent through **Web3Forms** (a form-to-email
+service) to the developer's inbox, used only to add you as a tester in the
+Google Play Console, and is not stored in the app or its database.
+
 **Aggregate statistics.** A summary of your confirmed matches is published for
 the leader matrix: for each of your decks, how it did against each opposing
 deck and how often you went first, broken down by kind of game, card set and
@@ -99,6 +107,9 @@ operated by Google LLC as the app's data processor, and is transmitted over
 encrypted connections (TLS). See Google's privacy policy at
 https://policies.google.com/privacy.
 
+The website is hosted on **Firebase Hosting** (Google LLC). Card pictures on
+the website are loaded by your browser directly from optcgapi.com.
+
 Card and Leader information is fetched from the public One Piece card API at
 optcgapi.com. These requests contain no personal data.
 
@@ -107,7 +118,8 @@ optcgapi.com. These requests contain no personal data.
 Your data is kept until you ask for it to be deleted.
 
 You can delete your account from inside the app: open your **Profile**, scroll
-to **Settings**, and tap **Delete my account**. It asks you to type "delete"
+to **Settings**, and tap **Delete my account** (on the website: the menu under
+your picture, then **Settings**). It asks you to type "delete"
 and to sign in again to prove it is you, then removes your
 profile, matches, tournaments, deck photos, private notes, simulator sittings
 and published statistics, and finally the account itself. Matches you played
